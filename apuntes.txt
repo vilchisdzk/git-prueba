@@ -1,0 +1,11 @@
+git init - Iniciar Repositorio
+git add - Agregar los cambios al Area de Ensayo
+git status - Ver cambios
+git commit - Agregar los cambios al Repositorio (Guardar Cambios)
+git push - Subir a un repositorio remoto
+git pull - traer los cambios de los otros devs
+git clone - realizar una copia del repositorio remoto a mi pc
+
+// Configurar
+$ git config --global user.email "vilchis.punk@gmail.com"
+$ git config --global user.name "vilchisdzk"
